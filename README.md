@@ -18,7 +18,7 @@ To run this project locally, follow these steps:
 
 Disclaimer: Some of the files may be missing as this file was being uploaded 2 year after this project was being first created in my local desktop 
 
-## Installation
+## Usage
 To use the letter recognition system, follow these steps:
    1. Ensure you have the necessary dependencies installed.
    2. Run the handwriting jupyter source file
