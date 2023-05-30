@@ -11,14 +11,14 @@ This project serves as a demonstration of using Keras and TensorFlow to build an
 
 To run this project locally, follow these steps:
 
-Clone the repository:
+   Clone the repository:
 
-   ```bash
-   git clone https://github.com/guhanavel/letter-recognition.git
-   
+      ```bash
+      git clone https://github.com/guhanavel/letter-recognition.git```
+
 Disclaimer: Some of the files may be missing as this file was being uploaded 2 year after this project was being first created in my local desktop 
 
-## Usage
+## Installation
 To use the letter recognition system, follow these steps:
    1. Ensure you have the necessary dependencies installed.
    2. Run the handwriting jupyter source file
